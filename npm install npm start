@@ -1,0 +1,17 @@
+
+## Endpoint API
+
+- GET `/api/users`
+- PUT `/api/users/:id`
+- GET `/api/projects`
+- POST `/api/projects`
+- GET `/api/reports`
+- POST `/api/reports`
+
+## Deploy ke Render
+
+1. Push repo ini ke GitHub
+2. Login ke [Render](https://render.com)
+3. Buat Web Service baru
+4. Build command: `npm install`
+5. Start command: `npm start`
